@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbcd4461.css",
-    "main.js": "/static/js/main.dbd72403.js",
-    "static/js/453.cb3cc533.chunk.js": "/static/js/453.cb3cc533.chunk.js",
-    "static/media/KakaoTalk_20240603_230609390.jpg": "/static/media/KakaoTalk_20240603_230609390.f3b25292d92df1fb7bfe.jpg",
+    "main.css": "/static/css/main.f9645040.css",
+    "main.js": "/static/js/main.a563f947.js",
+    "static/js/453.d5342150.chunk.js": "/static/js/453.d5342150.chunk.js",
     "index.html": "/index.html",
-    "main.cbcd4461.css.map": "/static/css/main.cbcd4461.css.map",
-    "main.dbd72403.js.map": "/static/js/main.dbd72403.js.map",
-    "453.cb3cc533.chunk.js.map": "/static/js/453.cb3cc533.chunk.js.map"
+    "main.f9645040.css.map": "/static/css/main.f9645040.css.map",
+    "main.a563f947.js.map": "/static/js/main.a563f947.js.map",
+    "453.d5342150.chunk.js.map": "/static/js/453.d5342150.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbcd4461.css",
-    "static/js/main.dbd72403.js"
+    "static/css/main.f9645040.css",
+    "static/js/main.a563f947.js"
   ]
 }
